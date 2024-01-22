@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **parvatirana6780@gmail.com**
 
+- ⚡ Fun fact **I am Foodie**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/parvati-rana-732329246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parvati-rana-732329246" height="30" width="40" /></a>

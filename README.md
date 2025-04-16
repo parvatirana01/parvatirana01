@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **parvatirana6780@gmail.com**
+- 📫 How to reach me **https://gettoknowparvati.netlify.app/**
 
 - ⚡ Fun fact **I am Foodie**
 

@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Parvati</h1>
 <h3 align="center">In Love with Algorithms and Coffee | CSE Undergrad👩🏻‍💻</h3>
 
-- 🔭 I’m currently working on **Doctor Appointment System using MERN**
+- 🔭 I’m currently working on **AI-ML-PROJECTS**
 
 - 🌱 I’m currently learning **Node JS and Data Structures**
 
